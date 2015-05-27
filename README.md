@@ -3,11 +3,13 @@
 利用Face++接口，实现的根据人脸照片识别出性别和年龄，同时在图片上用白色方框标识出人脸。<br>
 <br>
 测试机型：华为荣耀6
+<br>
 主要外部接口：Face++
+<br>
 <br>
 ![image](http://www.faceplusplus.com.cn/static/resources/facepp_inside.png)
 <br>
-
+<br>
 下面是测试图片结果：
 <br>
 <br>
